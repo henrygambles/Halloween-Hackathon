@@ -54,3 +54,7 @@ Place your secrets in a `.env` beside `vite.config.ts` (never in the light of da
 Open an issue, ping the coven, or drop a bat-signal. No question is too ghoulish.
 
 Happy haunting and happy shipping! 🎃💀👻
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=henrygambles/Halloween-Hackathon&type=Date)](https://star-history.com/#henrygambles/Halloween-Hackathon&Date)
